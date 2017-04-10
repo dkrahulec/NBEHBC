@@ -2,7 +2,7 @@
 
 ## Special Course in Human Brain Connectivity
 
-In this course, I would like to learn to understand human brain as (a set of) complex biological networks. Given that the brain contains around **85 billion neurons** and each neuron makes on average **10 thousand connections**, I am endeavouring to decipher its complexity (from macroscale white-matter tracts to microscale cortical circuits) and the relationship between structure and function, as the anatomical structure determines the function, which in return allows for structural plasticity. Understanding the higher cognitive and perceptual capabilities of the human brain, it is necessary to investigate brain connectivity both in its spatial and temporal scale, which is why I also aim at enriching myself with the knowledge of state-of-the-art experimental design in functional magnetic resonance imaging (fMRI). 
+In this course, I would like to learn to understand human brain as (a set of) complex biological networks. Given that the brain contains around **85 billion neurons** and each neuron makes on average **10 thousand connections**, I am endeavouring to decipher its complexity (from macroscale white-matter tracts to microscale cortical circuits) and the relationship between structure and function, as the anatomical structure determines the function, which in return allows for structural plasticity. For proper understanding of the higher cognitive and perceptual capabilities of the human brain, it is necessary to investigate brain connectivity both in its spatial and temporal scale, which is why I also aim at enriching my knowledge by state-of-the-art experimental designs in functional magnetic resonance imaging (fMRI). 
 
 
 ## Aims aka what I want to know about it.
