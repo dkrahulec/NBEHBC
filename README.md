@@ -1,7 +1,7 @@
 # NBEHBC 
 
-<p align="center">
-<img src="https://github.com/dkrahulec/NBEHBC/blob/master/connectivity.png">
+<p align="right">
+<img src="https://github.com/dkrahulec/NBEHBC/blob/master/connectivity.png" alt="pathways" height="50" width="50">
 </p>
 
 ## Special Course in Human Brain Connectivity
