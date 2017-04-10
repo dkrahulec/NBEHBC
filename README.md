@@ -25,7 +25,6 @@ padding: 2em;
 <p>
 <img src="https://github.com/dkrahulec/NBEHBC/blob/master/connectivity.png" alt="pathways" height="250" width="150">
 </p>
-</div>
 
 <p>
 ## Special Course in Human Brain Connectivity
@@ -41,3 +40,4 @@ In this course, I would like to learn to understand human brain as (a set of) co
 ## Visions aka how I want to apply it.
 In my current project, I am analysing fMRI data to define brain networks responsible for the processing of proprioceptive inputs. however, as my interests in studying the brain are rather broad, in the future I would like to focus on connectivity analysis to detect brain circuits for language processing and unravel the unknowns about language comprehension and interaction. Last but not least, with very humble desire, I would love to contribute to the *Human Brain Connectome* project (see [official site](https://www.humanconnectome.org/)).
 </p>
+</div>
