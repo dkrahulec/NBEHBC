@@ -1,5 +1,5 @@
 # NBEHBC
-Special Course in Human Brain Connectivity
+## Special Course in Human Brain Connectivity
 In this course, I would like to learn to understand human brain as (a set of) complex biological networks. Given that the brain contains around 90 billion neurons and each neuron makes on average 10 thousand connections, I am endeavoured to decipher its complexity (from macroscale white-matter tracts to microscale cortical circuits) and the relationship between structure and function, as the anatomical structure determines the function, which in return allows for structural plasticity. Understanding the higher cognitive and perceptual capabilities of the human brain, it is necessary to investigate brain connectivity both in its spatial and temporal scale.
 
 # Aims
