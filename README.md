@@ -1,7 +1,5 @@
 # NBEHBC 
-![alt text](https://drive.google.com/open?id=0B3bSDJ1lHYHiWU12RlVUVUtrY1k "NBEHBC")
-
-
+![alt text](https://github.com/dkrahulec/NBEHBC/blob/master/connectivity.png "NBEHBC")
 
 ## Special Course in Human Brain Connectivity
 In this course, I would like to learn to understand human brain as (a set of) complex biological networks. Given that the brain contains around **85 billion neurons** and each neuron makes on average **10 thousand connections**, I am endeavouring to decipher its complexity (from macroscale white-matter tracts to microscale cortical circuits) and the relationship between structure and function, as the anatomical structure determines the function, which in return allows for structural plasticity. Understanding the higher cognitive and perceptual capabilities of the human brain, it is necessary to investigate brain connectivity both in its spatial and temporal scale, which is why I also aim at enriching myself with the knowledge of state-of-the-art experimental design in functional magnetic resonance imaging (fMRI). 
