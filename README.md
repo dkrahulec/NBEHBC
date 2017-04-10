@@ -1,7 +1,7 @@
 # NBEHBC 
 
 <p align="center">
-![alt text](https://github.com/dkrahulec/NBEHBC/blob/master/connectivity.png "NBEHBC")
+<img src="https://github.com/dkrahulec/NBEHBC/blob/master/connectivity.png">
 </p>
 
 ## Special Course in Human Brain Connectivity
