@@ -1,5 +1,5 @@
 # NBEHBC 
-![alt text](https://drive.google.com/open?id=0B3bSDJ1lHYHiWU12RlVUVUtrY1k "general picture")
+![alt text](https://drive.google.com/open?id=0B3bSDJ1lHYHiWU12RlVUVUtrY1k "NBEHBC")
 
 
 
@@ -14,5 +14,4 @@ In this course, I would like to learn to understand human brain as (a set of) co
 3. In the post-analytical stage, I would like to learn how to inspect for lesions and arrive at conclusions about neurophysiological disorders based on the analysed data. 
 
 ## Visions aka how I want to apply it.
-In my current project, I am analysing fMRI data to define brain networks responsible for the processing of proprioceptive inputs. however, as my interests in studying the brain are rather broad, in the future I would like to focus on connectivity analysis to detect brain circuits for language processing and unravel the unknowns about language comprehension and interaction. Last but not least, with very humble desire, I would love to contribute to the *Human Brain Connectome* project (see [more on HBC](http://www.humanconnectomeproject.org/).
-
+In my current project, I am analysing fMRI data to define brain networks responsible for the processing of proprioceptive inputs. however, as my interests in studying the brain are rather broad, in the future I would like to focus on connectivity analysis to detect brain circuits for language processing and unravel the unknowns about language comprehension and interaction. Last but not least, with very humble desire, I would love to contribute to the *Human Brain Connectome* project (see [official site](http://www.humanconnectomeproject.org/)).
